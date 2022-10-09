@@ -22,3 +22,14 @@ immunological problems, and genetic anomalies. Every blood bank claims to be out
 blood, so we need to make people aware of the issue and offer support. Numerous camps,
 seminars, and applications can be of great help.
 ```
+##Project Workflow:
+```text
+The user interacts with the application.
+
+ Registers by giving the details as a donor.
+
+ The database will have all the details and if a user posts a request then the concerned blood   group donors will get notified about it.
+ ```
+ 
+
+
